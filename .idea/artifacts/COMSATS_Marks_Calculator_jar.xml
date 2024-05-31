@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="COMSATS Marks Calculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/COMSATS_Marks_Calculator_jar</output-path>
+    <root id="archive" name="COMSATS Marks Calculator.jar">
+      <element id="module-output" name="COMSATS Marks Calculator" />
+    </root>
+  </artifact>
+</component>
