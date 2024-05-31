@@ -171,7 +171,7 @@ public class MarksCalculatorGUI extends JFrame {
             else if (creditHourCalc.equals("3(2+1)")){
                 creditHrs = 4;
             }
-            else if (creditHourCalc.equals("4(2+1)")){
+            else if (creditHourCalc.equals("4(3+1)")){
                 creditHrs = 5;
             }
             int creditHours = creditHrs;
@@ -226,17 +226,17 @@ public class MarksCalculatorGUI extends JFrame {
             }
             else if (creditHrs == 4){
                 assignLost = 100 - ((assignmentObtained/assignmentTotal) * 100);
-                assignLost = ((assignLost/100) * 10) * 0.66;
+                assignLost = ((assignLost/100) * 10) * 0.666666;
                 quizLost = 100 - ((quizObtained/quizTotal) * 100);
-                quizLost = ((quizLost/100) * 15) *0.66;
+                quizLost = ((quizLost/100) * 15) *0.6666666;
                 midTermLost = 100 - ((midTermObtained/midTermTotal) * 100);
-                midTermLost = ((midTermLost/100) * 25) * 0.66;
+                midTermLost = ((midTermLost/100) * 25) * 0.6666666;
                 finalTermLost = 100 - ((finalObtained/finalTotal) * 100);
-                finalTermLost = ((finalTermLost/100) * 50) * 0.66;
+                finalTermLost = ((finalTermLost/100) * 50) * 0.6666666;
                 labAssignLost = 100 - ((labAssignmentObtained/labAssignmentTotal) * 100);
-                labAssignLost = ((labAssignLost/100) * 25) * 0.33;
+                labAssignLost = ((labAssignLost/100) * 25) * 0.33333333;
                 labMidLost = 100 - ((labMidTermObtained/labMidTermTotal) * 100);
-                labMidLost = ((labMidLost/100) * 25) * 0.33;
+                labMidLost = ((labMidLost/100) * 25) * 0.333333333;
                 totalMarks = assignLost+quizLost+midTermLost+finalTermLost + labMidLost + labAssignLost;
             }
             else if (creditHrs == 5){
