@@ -1,3 +1,7 @@
+![image](https://github.com/taciturn2020/COMSATS-Marks-Calculator/assets/142534049/e21f2ba0-dc52-4a05-91df-a28b231a80ff)
+
+
+
 HOW TO RUN:
 
 
@@ -20,8 +24,7 @@ https://github.com/taciturn2020/COMSATS-Marks-Calculator/tree/master/out/artifac
 
 
 
-Run it through cmd with the command (or the path for the jar file)
-
+Run it through cmd with the command (replace the path if not in the same directory)
 
 
 
