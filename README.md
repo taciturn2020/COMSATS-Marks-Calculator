@@ -37,3 +37,16 @@ Select the number of credit hours ( This can have an effect on how marks are cal
 Total Marks refers to marks over all assignments/quizzes, so four assignments of 10 marks would have a total of 40 marks and if you obtained 9 marks in each assignment then your total obtained marks would equal to 36
 
 
+GRADING INFO:
+
+
+Subtract marks lost from 100 to get your grade for the subject
+
+
+
+![image](https://github.com/taciturn2020/COMSATS-Marks-Calculator/assets/142534049/c37b5a82-b93c-4286-bec7-709615fce6ad)
+
+
+
+
+
