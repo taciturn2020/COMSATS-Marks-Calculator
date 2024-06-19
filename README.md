@@ -28,7 +28,7 @@ Alternatively you can also right click the jar file, copy it as path then run th
 ```
 java -jar [paste path here]
 ```
-HOW TO USE:
+# HOW TO USE:
 
 
 Select the type of course (LAB or THEORY)
