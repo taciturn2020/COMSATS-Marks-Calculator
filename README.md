@@ -2,35 +2,32 @@
 
 
 
-HOW TO RUN:
+# HOW TO RUN:
 
 
 
 
-Import the project and run the Main file.
+Download the jar file from the following LINK: [Marks Calculator](https://github.com/taciturn2020/COMSATS-Marks-Calculator/tree/master/out/artifacts/COMSATS_Marks_Calculator_jar)
 
 
-
-OR
-
-
-
-Download the jar file from the following LINK:
-
-
-
-https://github.com/taciturn2020/COMSATS-Marks-Calculator/tree/master/out/artifacts/COMSATS_Marks_Calculator_jar
+Alternatively, you can import the project and compile it.
 
 
 
 
-Run it through cmd with the command (replace the path if not in the same directory)
+Run it through cmd with the command 
 
-
-
+```
 java -jar '.\COMSATS Marks Calculator.jar'
-
-
+```
+NOTE: Ensure that your terminal is in the same path as the jar file, i.e 
+```
+cd [path]
+```
+Alternatively you can also right click the jar file, copy it as path then run the following command:
+```
+java -jar [paste path here]
+```
 HOW TO USE:
 
 
