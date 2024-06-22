@@ -1,3 +1,6 @@
+# Online Version
+The same tool is also available online at: [Marks Calculator](https://taciturn2021.github.io/markscalculator.html)
+
 ![image](https://github.com/taciturn2020/COMSATS-Marks-Calculator/assets/142534049/e21f2ba0-dc52-4a05-91df-a28b231a80ff)
 
 
